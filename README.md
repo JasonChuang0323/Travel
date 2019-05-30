@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+> A Vue.js project. please scale the window to iphone 6/ or upper size.
 
 ## Build Setup
 
